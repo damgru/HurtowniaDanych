@@ -1,0 +1,5 @@
+Wszystkie dane dotycz¹ce biletów s¹ pobierane z systemu sprzeda¿y biletów Tessera. System sprzeda¿y
+przechowuje informacje o sprzedawcy dokonuj¹cym transakcji (dziêki logowaniu), numerze
+transakcji, miejscach zakupionych w ramach tej transakcji, wykorzystanej promocji i  cenie, za któr¹ kupiono dane
+miejsca. Wiadomo równie¿ jaka by³a forma p³atnoœci (karta, gotówka czy bilet darmowy).
+Ponadto dane o pracownikach, posiadanych filmach, aktualnym repertuarze i repertuarze nastêpnego tygodnia s¹ przechowywane w pliku OpenOffice Calc dyrektor.
